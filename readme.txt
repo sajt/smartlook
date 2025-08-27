@@ -1,10 +1,10 @@
-=== Smartlook ===
+=== WF Smartlook ===
 Contributors: webfeszek
-Tags: analytics, user-recording, heatmaps, session-recording, user-behavior, conversion-tracking
+Tags: analytics, user-recording, heatmaps, session-recording
 Requires at least: 5.0
-Tested up to: 6.8.2
+Tested up to: 6.8
 Requires PHP: 7.4
-Stable tag: 0.0.2
+Stable tag: 0.0.5
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -51,36 +51,9 @@ Smartlook is a powerful user recording and analytics platform that helps you und
 5. Choose your preferred data center region
 6. Save settings and start recording!
 
-= Frequently Asked Questions =
-
-= How do I get a Smartlook API key? =
-
-Sign up at [smartlook.com](https://smartlook.com) and get your API key from the dashboard. The plugin will guide you through the setup process.
-
-= Is Smartlook GDPR compliant? =
-
-Yes, Smartlook provides GDPR-compliant user recording with built-in privacy controls and consent management.
-
-= Does this affect my site's performance? =
-
-No, the plugin is lightweight and optimized. Smartlook's recording script loads asynchronously and won't slow down your site.
-
-= Can I exclude certain pages from recording? =
-
-Yes, you can configure exclusions through the Smartlook dashboard or by modifying the plugin code.
-
-= What regions are supported? =
-
-The plugin supports multiple regions: Europe (EU), United States (US), Australia (AU), Canada (CA), Singapore (SG), and Japan (JP).
-
-= Screenshots =
-
-1. Plugin settings page
-2. API key configuration
-3. Region selection
-4. Admin menu integration
-
 = Changelog =
+= 0.0.5 =
+* After plugin check
 = 0.0.4 =
 * Added Github URL
 
