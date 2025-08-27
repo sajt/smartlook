@@ -81,6 +81,8 @@ The plugin supports multiple regions: Europe (EU), United States (US), Australia
 4. Admin menu integration
 
 = Changelog =
+= 0.0.4 =
+* Added Github URL
 
 = 0.0.2 =
 * Added multi-language support

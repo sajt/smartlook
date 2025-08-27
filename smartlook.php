@@ -4,12 +4,13 @@
  * Plugin URI: https://webfeszek.hu/plugins#smartlook
  * Author URI: https://webfeszek.hu
  * Description: Smartlook user recording integration
- * Version: 1.0.0
+ * Version: 0.0.4
  * Author: Tamas Amon
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: smartlook
  * Domain Path: /languages
+ * GitHub Plugin URI: https://github.com/webfeszek/smartlook
  */
 
 // Biztonsági ellenőrzés - közvetlen hozzáférés tiltása
@@ -25,7 +26,7 @@ class Smartlook_Plugin {
     /**
      * Plugin verzió
      */
-    const VERSION = '1.0.0';
+    const VERSION = '0.0.4';
 
     /**
      * Konstruktor
